@@ -1,0 +1,33 @@
+body {
+	background-color: #000000;
+}
+
+p {
+	color: pink;
+	text-align: left;
+}
+
+li {
+	color: white;
+}
+
+h1 {
+	color: white;
+	font-size: 3em;
+}
+
+h2 {
+	color: white;
+}
+
+.special-list{
+	color: red;
+}
+
+img {
+	width: 400px;
+	height: 200px;
+	padding: 10px 30px 10px 30px;
+	border: 10px solid white;
+	margin: 20px 30px 40px 50px;
+}
